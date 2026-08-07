@@ -1,0 +1,6 @@
+venv/
+diabetes.csv
+# Byte-compiled files
+**__pycache__/
+*.py[cod]
+*$py.class
