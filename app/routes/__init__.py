@@ -1,1 +1,0 @@
-from .predict_route import predict_diabetes as predict_route, predict_overall as predict_overall_route, router
