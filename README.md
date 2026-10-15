@@ -98,11 +98,11 @@ flowchart TD
 
 | Class | Precision | Recall | F1-score | Support |
 |---|---|---|---|---|
-| 0 (Non-Diabetic) | 0.86 | 0.54 | 0.66 | 95 |
-| 1 (Diabetic) | 0.33 | 0.70 | 0.45 | 50 |
-| **Accuracy** | | | **0.66** | 145 |
-| **Macro avg** | 0.59 | 0.62 | 0.55 | 145 |
-| **Weighted avg** | 0.71 | 0.66 | 0.64 | 145 |
+| 0 (Non-Diabetic) | 0.89 | 0.59 | 0.71 | 95 |
+| 1 (Diabetic) | 0.52 | 0.86 | 0.65 | 50 |
+| **Accuracy** | | | **0.68** | 145 |
+| **Macro avg** | 0.71 | 0.72 | 0.68 | 145 |
+| **Weighted avg** | 0.76 | 0.68 | 0.69 | 145 |
 
 **ROC-AUC:** `0.785`
 
